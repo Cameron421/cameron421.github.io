@@ -31,5 +31,5 @@ p {
 
 /* To select an element by its id, you write a hash (#) followed by the name. This means you an select specific 'p' tags, for example, instead of all 'p' tags */
 #messageOutput {
-  color: #819;
+  color: #213;
   }
